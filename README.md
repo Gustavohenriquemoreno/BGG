@@ -1,2 +1,2 @@
 # BGG
-Empresa de brigadeiro
+Empresa de bombons
